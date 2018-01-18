@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/danvk/dygraphs.svg?branch=markdown-readme)](https://travis-ci.org/danvk/dygraphs) [![Coverage Status](https://img.shields.io/coveralls/danvk/dygraphs.svg)](https://coveralls.io/r/danvk/dygraphs)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fdygraphs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fdygraphs?ref=badge_shield)
 # dygraphs JavaScript charting library
 
 The dygraphs JavaScript library produces interactive, zoomable charts of time series:
@@ -90,3 +91,6 @@ dygraphs is available under the MIT license, included in LICENSE.txt.
 [gviz]: http://dygraphs.com/data.html#datatable
 [npm]: https://www.npmjs.com/package/dygraphs
 [dygraphs-es6 repo]: https://github.com/danvk/dygraphs-es6
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fdygraphs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fdygraphs?ref=badge_large)
